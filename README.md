@@ -22,8 +22,8 @@ Les objectifs de ce projet sont les suivants :
 
 
 - `data/` : L'ensemble des données utilisée se trouve dans un drive google : https://drive.google.com/drive/folders/1zf0Yea8FR2PIspJvaw_QjDO6cQ47VcbK?usp=drive_link
-- `scripts/` : Ce répertoire contient les scripts Python utilisés pour le traitement des données, la création des modèles prédictifs et la génération des visualisations graphiques.
-- `rapport/` : Ce répertoire contient le dossier de synthèse final du projet, comprenant les différentes étapes de la méthodologie employée, les résultats obtenus, ainsi que les réponses aux questions d'analyse.
+- `scripts/` : Le fichier Etude_tx_d_abstention_election_presidentielle_france.ipynb contient les scripts Python utilisés pour le traitement des données, la création des modèles prédictifs et la génération des visualisations graphiques.
+- `rapport/` : Le Notion https://www.notion.so/MSPR-Big-Data-01bf8955f63c413c81602690569dc326?pvs=4 contient le dossier de synthèse final du projet, comprenant les différentes étapes de la méthodologie employée, les résultats obtenus, ainsi que les réponses aux questions d'analyse.
 - `README.md` : Ce fichier que vous êtes en train de lire fournit des informations sur le contenu et l'utilisation de ce référentiel.
 
 ## 📋 Instructions pour l'exécution du projet
